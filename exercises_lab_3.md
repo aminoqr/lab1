@@ -15,5 +15,12 @@ ls -lShr /var/log
 
 **Exercise 3**
 ```bash
-fasdafasdf
+
+
+
 ```
+
+**Exercise 4**
+
+Just a dummy change.
+sad
