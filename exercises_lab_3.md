@@ -15,5 +15,5 @@ ls -lShr /var/log
 
 **Exercise 3**
 ```bash
-
+fasdafasdf
 ```
